@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/palisade/pke",
+                "/usr/local/include/palisade/core",
+                "/usr/local/include/palisade",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7",
+                "/usr/local/include/SEAL-3.7"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
